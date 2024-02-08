@@ -1,0 +1,7 @@
+Request Vocab 
+
+GET => Request resources 
+POST => sending resources
+PUT => replace resources
+PATCH => Patch up resources 
+DELETE =>  Delete resources
